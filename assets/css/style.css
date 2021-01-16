@@ -8,6 +8,10 @@
 body p {
     font-family: 'Comic Neue', cursive;
 }
+
+.brand {
+    color: aliceblue;
+}
 footer p {
     font-family: 'Roboto', sans-serif;
     color: white;
@@ -20,7 +24,7 @@ footer h5 {
 
 #logo {
     font-size: 35px;
-    color:black;
+    color:rgb(165, 151, 151);
 }
 
 .card {
@@ -29,7 +33,7 @@ footer h5 {
 
 footer p i {
     font-size: 25px;
-    color: blue;
+    color: white;
 }
 
 #foot_location i {
@@ -37,3 +41,13 @@ footer p i {
     color: white;
     margin-right: 5px;
 }
+
+#login{
+    width: 20rem;
+    margin: 3rem auto 3rem;
+    } 
+#buy_card{
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 1rem;
+} 
