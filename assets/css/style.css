@@ -45,6 +45,7 @@ footer p i {
 #login{
     width: 20rem;
     margin: 3rem auto 3rem;
+    border-top: blue solid;
     } 
 #buy_card{
     width: 70%;
